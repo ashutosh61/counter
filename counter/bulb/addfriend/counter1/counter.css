@@ -1,0 +1,27 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    height: 100vh;
+    background-color: aquamarine;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#counter{
+    height: 250px;
+    width: 250px;
+    background-color: beige;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    box-shadow: 5px 5px black;
+}
+button{
+    height: 45px;
+    width: 45px;
+    margin-left:5px;
+    margin-right: 5px;
+}

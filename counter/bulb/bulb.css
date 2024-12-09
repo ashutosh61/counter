@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#bulb{
+    height: 200px;
+    width: 150px;
+    color: rgb(89, 111, 131);
+    background-color: aqua;
+    border-radius: 100px;
+    margin: 100px;
+}
+#button{
+    height: 40px;
+    width: 40px;
+    margin: 10px;
+    margin-left: 150px;
+    margin-bottom: 50px;
+}

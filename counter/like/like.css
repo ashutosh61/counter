@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html, body{
+    height: 100%;
+    width: 100%;
+    background-color: palevioletred;
+}
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#container{
+    height: 370px;
+    width: 350px;
+    border-radius: 10px;
+    background-color: wheat;
+}
+#container img{
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    object-position: center;
+}
